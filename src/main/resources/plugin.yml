@@ -1,0 +1,9 @@
+name: DarkMSG
+version: '1.0-SNAPSHOT'
+main: me.civworld.darkMSG.DarkMSG
+api-version: '1.20'
+prefix: DarkPanel
+load: STARTUP
+authors: [ uuun ]
+description: Plugin for CivWorld
+website: https://civworld.ru

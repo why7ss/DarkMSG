@@ -1,0 +1,6 @@
+package me.civworld.darkMSG.settings;
+
+public class Settings {
+    public int allTimePlayed;
+    public boolean sound = false;
+}
