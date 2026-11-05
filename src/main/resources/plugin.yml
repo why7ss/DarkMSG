@@ -7,3 +7,7 @@ load: STARTUP
 authors: [ uuun ]
 description: Plugin for CivWorld
 website: https://civworld.ru
+commands:
+  countme:
+    description: Узнать, каким по счёту вы зашли на сервер
+    usage: /countme

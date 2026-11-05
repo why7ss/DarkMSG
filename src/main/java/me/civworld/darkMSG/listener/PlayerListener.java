@@ -11,7 +11,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 
-public class PlayerListener implements Listener {
+public class    PlayerListener implements Listener {
     private final Settings settings;
 
     public PlayerListener(Settings settings) {
