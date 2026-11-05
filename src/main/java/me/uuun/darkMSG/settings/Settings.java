@@ -1,4 +1,4 @@
-package me.civworld.darkMSG.settings;
+package me.uuun.darkMSG.settings;
 
 public class Settings {
     public int allTimePlayed;

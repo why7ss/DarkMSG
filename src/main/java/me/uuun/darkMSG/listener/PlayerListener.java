@@ -1,7 +1,7 @@
-package me.civworld.darkMSG.listener;
+package me.uuun.darkMSG.listener;
 
-import me.civworld.darkMSG.settings.Settings;
-import me.civworld.darkMSG.fancy.FancyText;
+import me.uuun.darkMSG.settings.Settings;
+import me.uuun.darkMSG.fancy.FancyText;
 import org.bukkit.Bukkit;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;

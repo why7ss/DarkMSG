@@ -1,6 +1,6 @@
-package me.civworld.darkMSG.config;
+package me.uuun.darkMSG.config;
 
-import me.civworld.darkMSG.settings.Settings;
+import me.uuun.darkMSG.settings.Settings;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.Plugin;
 

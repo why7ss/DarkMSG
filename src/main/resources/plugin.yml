@@ -1,12 +1,12 @@
 name: DarkMSG
 version: '1.0-SNAPSHOT'
-main: me.civworld.darkMSG.DarkMSG
+main: me.uuun.darkMSG.DarkMSG
 api-version: '1.20'
 prefix: DarkPanel
 load: STARTUP
 authors: [ uuun ]
-description: Plugin for CivWorld
-website: https://civworld.ru
+description: Plugin for Join messaging
+website: https://why7ss.github.io
 commands:
   countme:
     description: Узнать, каким по счёту вы зашли на сервер

@@ -1,10 +1,10 @@
-package me.civworld.darkMSG;
+package me.uuun.darkMSG;
 
-import me.civworld.darkMSG.command.CountMeCommand;
-import me.civworld.darkMSG.order.JoinOrder;
-import me.civworld.darkMSG.settings.Settings;
-import me.civworld.darkMSG.config.Config;
-import me.civworld.darkMSG.listener.PlayerListener;
+import me.uuun.darkMSG.command.CountMeCommand;
+import me.uuun.darkMSG.order.JoinOrder;
+import me.uuun.darkMSG.settings.Settings;
+import me.uuun.darkMSG.config.Config;
+import me.uuun.darkMSG.listener.PlayerListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class DarkMSG extends JavaPlugin {

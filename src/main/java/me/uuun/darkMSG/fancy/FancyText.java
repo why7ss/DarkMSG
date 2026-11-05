@@ -1,4 +1,4 @@
-package me.civworld.darkMSG.fancy;
+package me.uuun.darkMSG.fancy;
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.minimessage.MiniMessage;

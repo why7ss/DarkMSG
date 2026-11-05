@@ -1,7 +1,7 @@
-package me.civworld.darkMSG.command;
+package me.uuun.darkMSG.command;
 
-import me.civworld.darkMSG.fancy.FancyText;
-import me.civworld.darkMSG.order.JoinOrder;
+import me.uuun.darkMSG.fancy.FancyText;
+import me.uuun.darkMSG.order.JoinOrder;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
